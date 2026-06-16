@@ -1,0 +1,38 @@
+# Ignore everything by default. This repository is intended to publish only
+# the dashboard artifact, report, and final CSVs used by the dashboard.
+*
+
+# Keep this allowlist file.
+!.gitignore
+
+# Main Power BI dashboard and report.
+!DataViz.pbix
+!data_visualization_technique_application_report.md
+
+# Dashboard-ready CSVs in the project root.
+!fixed_gender_gap_dumbbell_chart_ready.csv
+!filled_bump_chart_top10_strength_ranked_by_half_decade_score.csv
+
+# Dashboard-ready CSVs under analysis.
+!analysis/
+analysis/*
+!analysis/merge_total.csv
+!analysis/all_event_types_top_by_year.csv
+!analysis/top10_country_strength_by_event_type.csv
+!analysis/total/
+analysis/total/*
+!analysis/total/all_event_types_top_score_by_year_gender.csv
+
+# Optional scripts directly related to producing dashboard source tables.
+!analysis/jump_top_score_by_year.py
+!analysis/spr_top_score_by_year.py
+
+# Common local/editor/system files.
+.DS_Store
+Thumbs.db
+desktop.ini
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+.idea/

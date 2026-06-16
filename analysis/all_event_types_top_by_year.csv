@@ -1,0 +1,203 @@
+﻿year,max_results_score,event,event_name,event_type,competitor,nat,mark,date,venue,gender,environment,age,age_category
+1935,1166.0,Men's Long Jump,long-jump,jumps,Jesse OWENS,USA,8.13,1935-05-25,"Ann Arbor, MI (USA)",men,outdoor,22.0,senior
+1936,1151.0,Men's Long Jump,long-jump,jumps,Jesse OWENS,USA,8.06,1936-08-04,"Olympiastadion, Berlin (GER)",men,outdoor,23.0,senior
+1947,1153.0,Men's Long Jump,long-jump,jumps,Willie STEELE,USA,8.07,1947-06-21,"Salt Lake City, UT (USA)",men,outdoor,24.0,senior
+1952,1138.0,Men's Long Jump,long-jump,jumps,George BROWN,USA,8.0,1952-05-10,"Fresno, CA (USA)",men,outdoor,21.0,senior
+1955,1144.0,Men's Long Jump,long-jump,jumps,Roselyn RANGE,USA,8.03,1955-03-14,Ciudad de México (MEX),men,outdoor,22.0,senior
+1957,1160.0,Men's Long Jump,long-jump,jumps,Greg BELL,USA,8.1,1957-06-14,"Austin, TX (USA)",men,outdoor,27.0,senior
+1960,1184.0,Men's Long Jump,long-jump,jumps,Ralph BOSTON,USA,8.21,1960-08-12,"Walnut, CA (USA)",men,outdoor,21.0,senior
+1961,1199.0,Men's Long Jump,long-jump,jumps,Ralph BOSTON,USA,8.28,1961-07-16,Moskva (URS),men,outdoor,22.0,senior
+1962,1205.0,Men's Long Jump,long-jump,jumps,Igor TER-OVANESYAN,URS,8.31,1962-06-10,Yerevan (ARM),men,outdoor,24.0,senior
+1963,1210.0,Men's Long Jump,long-jump,jumps,Phil SHINNICK,USA,8.33,1963-05-25,"Modesto, CA (USA)",men,outdoor,20.0,senior
+1964,1212.0,Men's Long Jump,long-jump,jumps,Ralph BOSTON,USA,8.34,1964-09-12,"Los Angeles, CA (USA)",men,outdoor,25.0,senior
+1965,1214.0,Men's Long Jump,long-jump,jumps,Ralph BOSTON,USA,8.35,1965-05-29,"Modesto, CA (USA)",men,outdoor,26.0,senior
+1966,1188.0,Men's Long Jump indoor,long-jump,jumps,Igor TER-OVANESYAN,URS,8.23,1966-03-27,"Westfalenhalle, Dortmund (GER)",men,indoor,28.0,senior
+1967,1214.0,Men's Long Jump,long-jump,jumps,Igor TER-OVANESYAN,URS,8.35,1967-10-19,Ciudad de México (MEX),men,outdoor,29.0,senior
+1968,1335.0,Men's Long Jump,long-jump,jumps,Bob BEAMON,USA,8.9,1968-10-18,"Estadio Olímpico, Ciudad de México (MEX)",men,outdoor,22.0,senior
+1969,1184.0,Men's Long Jump,long-jump,jumps,Waldemar STĘPIEŃ,POL,8.21,1969-07-12,Chorzów (POL),men,outdoor,23.0,senior
+1970,1214.0,Men's Long Jump,long-jump,jumps,Josef SCHWARZ,FRG,8.35,1970-07-15,Stuttgart (GER),men,outdoor,29.0,senior
+1971,1207.0,Men's Triple Jump,triple-jump,jumps,Pedro PÉREZ DUENAS,CUB,17.4,1971-08-05,Cali (COL),men,outdoor,19.0,senior
+1972,1215.0,Men's Triple Jump,triple-jump,jumps,Viktor SANEYEV,URS,17.44,1972-10-17,Sukhumi (URS),men,outdoor,27.0,senior
+1973,1190.0,Men's Long Jump,long-jump,jumps,James MCALISTER,USA,8.24,1973-05-05,"Westwood, CA (USA)",men,outdoor,22.0,senior
+1974,1203.0,Men's Long Jump,long-jump,jumps,Arnie ROBINSON,USA,8.3,1974-05-25,"Modesto, CA (USA)",men,outdoor,26.0,senior
+1975,1260.0,Men's Triple Jump,triple-jump,jumps,João Carlos DE OLIVEIRA,BRA,17.89,1975-10-15,Ciudad de México (MEX),men,outdoor,21.0,senior
+1976,1217.0,Men's Long Jump,long-jump,jumps,Arnie ROBINSON,USA,8.35,1976-07-29,"Olympic Stadium, Montréal (CAN)",men,outdoor,28.0,senior
+1977,1219.0,Women's High Jump,high-jump,jumps,Rosemarie ACKERMANN,GDR,2.0,1977-08-26,Berlin (GER),women,outdoor,25.0,senior
+1978,1238.0,Women's Long Jump,long-jump,jumps,Vilma BARDAUSKIENÉ,URS,7.09,1978-08-29,"Stadion Evžena Rošického, Praha (TCH)",women,outdoor,25.0,senior
+1979,1251.0,Men's Long Jump,long-jump,jumps,Larry MYRICKS,USA,8.52,1979-08-26,"Olympic Stadium, Montréal (CAN)",men,outdoor,23.0,senior
+1980,1256.0,Men's Long Jump,long-jump,jumps,Lutz DOMBROWSKI,GDR,8.54,1980-07-28,"Lenin Stadium, Moskva (URS)",men,outdoor,21.0,senior
+1981,1273.0,Men's Long Jump,long-jump,jumps,Carl LEWIS,USA,8.62,1981-06-20,"Sacramento, CA (USA)",men,outdoor,20.0,senior
+1982,1304.0,Men's Long Jump,long-jump,jumps,Carl LEWIS,USA,8.76,1982-07-24,"Indianapolis, IN (USA)",men,outdoor,21.0,senior
+1983,1313.0,Women's Long Jump,long-jump,jumps,Anișoara CUȘMIR,ROU,7.43,1983-06-04,Bucureşti (ROU),women,outdoor,21.0,senior
+1984,1311.0,Men's Long Jump indoor,long-jump,jumps,Carl LEWIS,USA,8.79,1984-01-27,"New York, NY (USA)",men,indoor,23.0,senior
+1985,1316.0,Women's Long Jump,long-jump,jumps,Heike DRECHSLER,GDR,7.44,1985-09-22,Berlin (GDR),women,outdoor,21.0,senior
+1986,1318.0,Women's Long Jump,long-jump,jumps,Heike DRECHSLER,GDR,7.45,1986-07-03,Dresden (GER),women,outdoor,22.0,senior
+1987,1326.0,Men's Long Jump,long-jump,jumps,Robert EMMIYAN,URS,8.86,1987-05-22,Tsakhadzor (ARM),men,outdoor,22.0,senior
+1988,1333.0,Women's Long Jump,long-jump,jumps,Galina CHISTYAKOVA,URS,7.52,1988-06-11,Leningrad (URS),women,outdoor,26.0,senior
+1989,1305.0,Men's High Jump,high-jump,jumps,Javier SOTOMAYOR,CUB,2.44,1989-07-29,San Juan (PUR),men,outdoor,22.0,senior
+1990,1295.0,Women's Long Jump,long-jump,jumps,Galina CHISTYAKOVA,URS,7.35,1990-06-20,Bratislava (TCH),women,outdoor,28.0,senior
+1991,1346.0,Men's Long Jump,long-jump,jumps,Mike POWELL,USA,8.95,1991-08-30,"National Stadium, Tokyo (JPN)",men,outdoor,28.0,senior
+1992,1324.0,Women's Long Jump,long-jump,jumps,Heike DRECHSLER,GER,7.48,1992-07-08,"Stade Olympique de la Pontaise, Lausanne (SUI)",women,outdoor,28.0,senior
+1993,1314.0,Men's High Jump,high-jump,jumps,Javier SOTOMAYOR,CUB,2.45,1993-07-27,Salamanca (ESP),men,outdoor,26.0,senior
+1994,1327.0,Women's Long Jump,long-jump,jumps,Jackie JOYNER-KERSEE,USA,7.49,1994-05-22,"New York, NY (USA)",women,outdoor,32.0,senior
+1995,1303.0,Men's Triple Jump,triple-jump,jumps,Jonathan EDWARDS,GBR,18.29,1995-08-07,"Ullevi Stadium, Göteborg (SWE)",men,outdoor,29.0,senior
+1996,1283.0,Men's Triple Jump,triple-jump,jumps,Kenny HARRISON,USA,18.09,1996-07-27,"Olympic Stadium, Atlanta, GA (USA)",men,outdoor,31.0,senior
+1997,1281.0,Men's Pole Vault,pole-vault,jumps,Sergey BUBKA,UKR,6.05,1997-09-13,Fukuoka (JPN),men,outdoor,34.0,senior
+1998,1287.0,Women's Long Jump,long-jump,jumps,Marion JONES,USA,7.31,1998-08-12,Zürich (SUI),women,outdoor,23.0,senior
+1999,1281.0,Men's Pole Vault,pole-vault,jumps,Maxim TARASOV,RUS,6.05,1999-06-16,Athina (GRE),men,outdoor,29.0,senior
+2000,1280.0,Men's Long Jump,long-jump,jumps,Iván PEDROSO,CUB,8.65,2000-06-03,Jena (GER),men,outdoor,28.0,senior
+2001,1281.0,Men's Pole Vault,pole-vault,jumps,Dmitri MARKOV,AUS,6.05,2001-08-09,"Commonwealth Stadium, Edmonton (CAN)",men,outdoor,26.0,senior
+2002,1311.0,Women's Long Jump,long-jump,jumps,Tatyana KOTOVA,RUS,7.42,2002-06-23,"Parc des Sports, Annecy (FRA)",women,outdoor,26.0,senior
+2003,1279.0,Women's High Jump,high-jump,jumps,Hestrie CLOETE,RSA,2.06,2003-08-31,"Stade de France, Paris-St-Denis (FRA)",women,outdoor,25.0,senior
+2004,1291.0,Women's Long Jump,long-jump,jumps,Tatyana LEBEDEVA,RUS,7.33,2004-07-31,Tula (RUS),women,outdoor,28.0,senior
+2005,1274.0,Women's Pole Vault,pole-vault,jumps,Yelena ISINBAYEVA,RUS,5.01,2005-08-12,"Olympiastadion, Helsinki (FIN)",women,outdoor,23.0,senior
+2006,1299.0,Women's High Jump indoor,high-jump,jumps,Kajsa BERGQVIST,SWE,2.08,2006-02-04,Arnstadt (GER),women,indoor,30.0,senior
+2007,1289.0,Women's High Jump,high-jump,jumps,Blanka VLAŠIĆ,CRO,2.07,2007-08-07,Stockholm (SWE),women,outdoor,24.0,senior
+2008,1298.0,Men's Long Jump,long-jump,jumps,Irving SALADINO,PAN,8.73,2008-05-24,"FBK Stadium, Hengelo (NED)",men,outdoor,25.0,senior
+2009,1307.0,Men's Long Jump,long-jump,jumps,Dwight PHILLIPS,USA,8.74,2009-06-07,"Eugene, OR (USA)",men,outdoor,32.0,senior
+2010,1279.0,Women's High Jump indoor,high-jump,jumps,Blanka VLAŠIĆ,CRO,2.06,2010-02-06,Arnstadt (GER),women,indoor,27.0,senior
+2011,1289.0,Women's High Jump,high-jump,jumps,Anna CHICHEROVA,RUS,2.07,2011-07-22,Cheboksary (RUS),women,outdoor,29.0,senior
+2012,1279.0,Women's High Jump indoor,high-jump,jumps,Anna CHICHEROVA,RUS,2.06,2012-02-04,Arnstadt (GER),women,indoor,30.0,senior
+2013,1278.0,Men's High Jump,high-jump,jumps,Bohdan BONDARENKO,UKR,2.41,2013-07-04,"Stade Olympique de la Pontaise, Lausanne (SUI)",men,outdoor,24.0,senior
+2014,1311.0,Men's Pole Vault indoor,pole-vault,jumps,Renaud LAVILLENIE,FRA,6.16,2014-02-15,Donetsk (UKR),men,indoor,28.0,senior
+2015,1294.0,Men's Triple Jump,triple-jump,jumps,Christian TAYLOR,USA,18.21,2015-08-27,"National Stadium, Beijing (CHN)",men,outdoor,25.0,senior
+2016,1287.0,Women's Long Jump,long-jump,jumps,Brittney REESE,USA,7.31,2016-07-02,"Hayward Field, Eugene, OR (USA)",women,outdoor,30.0,senior
+2017,1283.0,Men's Triple Jump,triple-jump,jumps,Christian TAYLOR,USA,18.11,2017-05-27,"Hayward Field, Eugene, OR (USA)",men,outdoor,27.0,senior
+2018,1287.0,Men's Long Jump,long-jump,jumps,Juan Miguel ECHEVARRÍA,CUB,8.68,2018-06-30,Bad Langensalza (GER),men,outdoor,20.0,senior
+2019,1289.0,Men's Long Jump,long-jump,jumps,Tajay GAYLE,JAM,8.69,2019-09-28,"Khalifa International Stadium, Doha (QAT)",men,outdoor,23.0,senior
+2020,1317.0,Men's Pole Vault indoor,pole-vault,jumps,Armand DUPLANTIS,SWE,6.18,2020-02-15,"Emirates Arena, Glasgow (GBR)",men,indoor,21.0,senior
+2021,1294.0,Men's Pole Vault indoor,pole-vault,jumps,Armand DUPLANTIS,SWE,6.1,2021-02-24,"Atletska dvorana, Beograd (SRB)",men,indoor,22.0,senior
+2022,1325.0,Men's Pole Vault,pole-vault,jumps,Armand DUPLANTIS,SWE,6.21,2022-07-24,"Hayward Field, Eugene, OR (USA)",men,outdoor,23.0,senior
+2023,1330.0,Men's Pole Vault,pole-vault,jumps,Armand DUPLANTIS,SWE,6.23,2023-09-17,"Hayward Field, Eugene, OR (USA)",men,outdoor,24.0,senior
+1955,1152.0,Men's 800m,800-metres,middle-long,Roger MOËNS,BEL,1:45.94,1955-08-03,Oslo (NOR),men,outdoor,25.0,senior
+1957,1149.0,Men's 800m,800-metres,middle-long,Tom COURTNEY,USA,1:46.04,1957-08-09,Oslo (NOR),men,outdoor,24.0,senior
+1958,1161.0,Men's 1500m,1500-metres,middle-long,Herb ELLIOTT,AUS,3:36.24,1958-08-28,Göteborg (SWE),men,outdoor,20.0,senior
+1959,1116.0,Men's 1000m,1000-metres,middle-long,Dan WAERN,SWE,2:18.04,1959-08-21,Karlstad (SWE),men,outdoor,26.0,senior
+1960,1166.0,Men's 1500m,1500-metres,middle-long,Herb ELLIOTT,AUS,3:35.84,1960-09-06,"Stadio Olimpico, Roma (ITA)",men,outdoor,22.0,senior
+1962,1195.0,Men's 800m,800-metres,middle-long,Peter SNELL,NZL,1:44.54,1962-02-03,Christchurch (NZL),men,outdoor,24.0,senior
+1963,1148.0,Men's Mile indoor,one-mile,middle-long,Jim BEATTY,USA,3:58.84,1963-02-15,"New York, NY (USA)",men,indoor,29.0,senior
+1964,1198.0,Women's 800m,800-metres,middle-long,Geum-Dan SHIN,PRK,1:58.24,1964-09-05,Pyongyang (PRK),women,outdoor,26.0,senior
+1965,1179.0,Men's 3000m,3000-metres,middle-long,Kipchoge KEINO,KEN,7:39.84,1965-08-27,Helsingborg (SWE),men,outdoor,25.0,senior
+1966,1184.0,Men's Mile,one-mile,middle-long,Jim RYUN,USA,3:51.54,1966-07-17,"Berkeley, CA (USA)",men,outdoor,19.0,senior
+1967,1201.0,Men's 1500m,1500-metres,middle-long,Jim RYUN,USA,3:33.34,1967-07-08,"Los Angeles, CA (USA)",men,outdoor,20.0,senior
+1968,1192.0,Men's 800m,800-metres,middle-long,Ralph DOUBELL,AUS,1:44.40,1968-10-15,"Estadio Olímpico, Ciudad de México (MEX)",men,outdoor,23.0,senior
+1969,1182.0,Men's 800m indoor,800-metres,middle-long,Dieter FROMM,GDR,1:46.84,1969-03-08,"Belgrade Fair, Beograd (SRB)",men,indoor,21.0,senior
+1970,1188.0,Men's 1500m,1500-metres,middle-long,Jean WADOUX,FRA,3:34.24,1970-07-23,Colombes (FRA),men,outdoor,28.0,senior
+1971,1199.0,Men's 2 Miles indoor,two-miles,middle-long,Kerry O'BRIEN,AUS,8:19.44,1971-02-19,"San Diego, CA (USA)",men,indoor,25.0,senior
+1972,1195.0,Men's 800m,800-metres,middle-long,David WOTTLE,USA,1:44.54,1972-07-01,"Eugene, OR (USA)",men,outdoor,22.0,senior
+1973,1234.0,Men's 2 Miles indoor,two-miles,middle-long,Emiel PUTTEMANS,BEL,8:13.44,1973-02-18,Berlin (GER),men,indoor,26.0,senior
+1974,1214.0,Men's 1500m,1500-metres,middle-long,Filbert BAYI,TAN,3:32.44,1974-02-02,Christchurch (NZL),men,outdoor,21.0,senior
+1975,1213.0,Men's 3000mSC,3000-metres-steeplechase,middle-long,Anders GÄRDERUD,SWE,8:09.70,1975-07-01,Stockholm (SWE),men,outdoor,29.0,senior
+1976,1254.0,Women's 800m,800-metres,middle-long,Tatyana KAZANKINA,URS,1:54.94,1976-07-26,"Olympic Stadium, Montréal (CAN)",women,outdoor,25.0,senior
+1977,1223.0,Men's 800m,800-metres,middle-long,Alberto JUANTORENA,CUB,1:43.64,1977-08-21,Sofia (BUL),men,outdoor,27.0,senior
+1978,1239.0,Women's 800m,800-metres,middle-long,Tatyana PROVIDOKHINA,URS,1:55.80,1978-08-31,"Stadion Evžena Rošického, Praha (TCH)",women,outdoor,25.0,senior
+1979,1256.0,Men's 800m,800-metres,middle-long,Sebastian COE,GBR,1:42.33,1979-07-05,Oslo (NOR),men,outdoor,23.0,senior
+1980,1283.0,Women's 800m,800-metres,middle-long,Nadezhda OLIZARENKO,URS,1:53.43,1980-07-27,"Lenin Stadium, Moskva (URS)",women,outdoor,27.0,senior
+1981,1275.0,Men's 800m,800-metres,middle-long,Sebastian COE,GBR,1:41.73,1981-06-10,Firenze (ITA),men,outdoor,25.0,senior
+1982,1252.0,Women's 1500m,1500-metres,middle-long,Olga DVIRNA,URS,3:54.23,1982-07-27,Kiev (URS),women,outdoor,29.0,senior
+1983,1286.0,Women's 800m,800-metres,middle-long,Jarmila KRATOCHVÍLOVÁ,TCH,1:53.28,1983-07-26,München (GER),women,outdoor,32.0,senior
+1984,1274.0,Men's 800m,800-metres,middle-long,Joaquim CRUZ,BRA,1:41.77,1984-08-26,Köln (GER),men,outdoor,21.0,senior
+1985,1252.0,Men's 1500m,1500-metres,middle-long,Saïd AOUITA,MAR,3:29.46,1985-08-23,"Olympiastadion, Berlin (GER)",men,outdoor,26.0,senior
+1986,1248.0,Men's 1500m,1500-metres,middle-long,Sebastian COE,GBR,3:29.77,1986-09-07,Rieti (ITA),men,outdoor,30.0,senior
+1987,1249.0,Women's 800m,800-metres,middle-long,Sigrun WODARS,GDR,1:55.26,1987-08-31,"Stadio Olimpico, Roma (ITA)",women,outdoor,22.0,senior
+1988,1255.0,Women's 1500m,1500-metres,middle-long,Paula IVAN,ROU,3:53.96,1988-10-01,"Olympic Stadium, Jamsil, Seoul (KOR)",women,outdoor,25.0,senior
+1989,1264.0,Women's 800m,800-metres,middle-long,Ana Fidelia QUIROT,CUB,1:54.44,1989-09-09,"Estadio Olímpico, Barcelona (ESP)",women,outdoor,26.0,senior
+1990,1244.0,Women's Mile indoor,one-mile,middle-long,Doina MELINTE,ROU,4:17.14,1990-02-09,"East Rutherford, NJ (USA)",women,indoor,34.0,senior
+1991,1251.0,Men's Mile indoor,one-mile,middle-long,Noureddine MORCELI,ALG,3:50.81,1991-02-08,"East Rutherford, NJ (USA)",men,indoor,21.0,senior
+1992,1261.0,Men's 1500m,1500-metres,middle-long,Noureddine MORCELI,ALG,3:28.86,1992-09-06,Rieti (ITA),men,outdoor,22.0,senior
+1993,1293.0,Women's 3000m,3000-metres,middle-long,Junxia WANG,CHN,8:06.11,1993-09-13,Beijing (CHN),women,outdoor,20.0,senior
+1994,1270.0,Men's 3000m,3000-metres,middle-long,Noureddine MORCELI,ALG,7:25.11,1994-08-02,"Stade Louis II, Monaco (MON)",men,outdoor,24.0,senior
+1995,1282.0,Men's 1500m,1500-metres,middle-long,Noureddine MORCELI,ALG,3:27.37,1995-07-12,Nice (FRA),men,outdoor,25.0,senior
+1996,1299.0,Men's 3000m,3000-metres,middle-long,Daniel KOMEN,KEN,7:20.67,1996-09-01,Rieti (ITA),men,outdoor,20.0,senior
+1997,1305.0,Men's 800m indoor,800-metres,middle-long,Wilson KIPKETER,DEN,1:42.67,1997-03-09,"Palais Omnisports de Paris-Bercy, Paris (FRA)",men,indoor,25.0,senior
+1998,1302.0,Men's 1500m,1500-metres,middle-long,Hicham EL GUERROUJ,MAR,3:26.00,1998-07-14,"Stadio Olimpico, Roma (ITA)",men,outdoor,24.0,senior
+1999,1300.0,Men's 5000m indoor,5000-metres,middle-long,Haile GEBRSELASSIE,ETH,12:50.38,1999-02-14,Birmingham (GBR),men,indoor,26.0,senior
+2000,1285.0,Men's 1500m,1500-metres,middle-long,Hicham EL GUERROUJ,MAR,3:27.21,2000-08-11,Zürich (SUI),men,outdoor,26.0,senior
+2001,1301.0,Men's 1500m,1500-metres,middle-long,Hicham EL GUERROUJ,MAR,3:26.12,2001-08-24,Bruxelles (BEL),men,outdoor,27.0,senior
+2002,1289.0,Men's 1500m,1500-metres,middle-long,Hicham EL GUERROUJ,MAR,3:26.89,2002-08-16,Zürich (SUI),men,outdoor,28.0,senior
+2003,1285.0,Men's 2 Miles indoor,two-miles,middle-long,Haile GEBRSELASSIE,ETH,8:04.69,2003-02-21,"National Indoor Arena, Birmingham (GBR)",men,indoor,30.0,senior
+2004,1303.0,Men's 5000m indoor,5000-metres,middle-long,Kenenisa BEKELE,ETH,12:49.60,2004-02-20,"National Indoor Arena, Birmingham (GBR)",men,indoor,22.0,senior
+2005,1295.0,"Men's 10,000m",10000-metres,middle-long,Kenenisa BEKELE,ETH,26:17.53,2005-08-26,"Boudewijnstadion, Bruxelles (BEL)",men,outdoor,23.0,senior
+2006,1283.0,Men's 2 Miles indoor,two-miles,middle-long,Kenenisa BEKELE,ETH,8:05.12,2006-02-18,"National Indoor Arena, Birmingham (GBR)",men,indoor,24.0,senior
+2007,1280.0,Men's 2000m indoor,2000-metres,middle-long,Kenenisa BEKELE,ETH,4:49.99,2007-02-17,"National Indoor Arena, Birmingham (GBR)",men,indoor,25.0,senior
+2008,1287.0,Men's 2 Miles indoor,two-miles,middle-long,Kenenisa BEKELE,ETH,8:04.35,2008-02-16,"National Indoor Arena, Birmingham (GBR)",men,indoor,26.0,senior
+2009,1266.0,Men's 800m,800-metres,middle-long,David RUDISHA,KEN,1:42.01,2009-09-06,Rieti (ITA),men,outdoor,21.0,senior
+2010,1298.0,Men's 800m,800-metres,middle-long,David RUDISHA,KEN,1:41.01,2010-08-29,"Stadio Guidobaldi, Rieti (ITA)",men,outdoor,22.0,senior
+2011,1289.0,Men's 5000m indoor,5000-metres,middle-long,Isiah Kiplangat KOECH,KEN,12:53.29,2011-02-11,Düsseldorf (GER),men,indoor,18.0,u20
+2012,1301.0,Men's 800m,800-metres,middle-long,David RUDISHA,KEN,1:40.91,2012-08-09,"Olympic Stadium, London (GBR)",men,outdoor,24.0,senior
+2013,1277.0,Men's 1500m,1500-metres,middle-long,Asbel KIPROP,KEN,3:27.72,2013-07-19,"Stade Louis II, Monaco (MON)",men,outdoor,24.0,senior
+2014,1281.0,Women's 3000m indoor,3000-metres,middle-long,Genzebe DIBABA,ETH,8:16.60,2014-02-06,"Globe Arena, Stockholm (SWE)",women,indoor,23.0,senior
+2015,1293.0,Men's 2 Miles indoor,two-miles,middle-long,Mo FARAH,GBR,8:03.40,2015-02-21,"Barclaycard Arena, Birmingham (GBR)",men,indoor,32.0,senior
+2016,1287.0,"Women's 10,000m",10000-metres,middle-long,Almaz AYANA,ETH,29:17.45,2016-08-12,"Estádio Olímpico, Rio de Janeiro (BRA)",women,outdoor,25.0,senior
+2017,1262.0,Men's 1500m,1500-metres,middle-long,Elijah Motonei MANANGOI,KEN,3:28.80,2017-07-21,"Stade Louis II, Monaco (MON)",men,outdoor,24.0,senior
+2018,1285.0,Women's 3000mSC,3000-metres-steeplechase,middle-long,Beatrice CHEPKOECH,KEN,8:44.32,2018-07-20,"Stade Louis II, Monaco (MON)",women,outdoor,27.0,senior
+2019,1304.0,Men's Mile indoor,one-mile,middle-long,Yomif KEJELCHA,ETH,3:47.01,2019-03-03,"Boston, MA (USA)",men,indoor,22.0,senior
+2020,1306.0,"Men's 10,000m",10000-metres,middle-long,Joshua CHEPTEGEI,UGA,26:11.00,2020-10-07,"Estadio de Atletismo del Turia, Valencia (ESP)",men,outdoor,24.0,senior
+2021,1303.0,"Women's 10,000m",10000-metres,middle-long,Letesenbet GIDEY,ETH,29:01.03,2021-06-08,"FBK Stadium, Hengelo (NED)",women,outdoor,23.0,senior
+2022,1292.0,Men's 1500m indoor,1500-metres,middle-long,Jakob INGEBRIGTSEN,NOR,3:30.60,2022-02-17,"Arena Stade Couvert, Liévin (FRA)",men,indoor,22.0,senior
+2023,1307.0,Men's 2000m,2000-metres,middle-long,Jakob INGEBRIGTSEN,NOR,4:43.13,2023-09-08,"Boudewijnstadion, Bruxelles (BEL)",men,outdoor,23.0,senior
+1948,1103.0,Men's 300m,300-metres,sprints,Herb MCKENLEY,JAM,32.64,1948-09-03,Stockholm (SWE),men,outdoor,26.0,senior
+1950,1103.0,Men's 300m,300-metres,sprints,Herb MCKENLEY,JAM,32.64,1950-08-16,Stockholm (SWE),men,outdoor,28.0,senior
+1956,1156.0,Men's 400m,400-metres,sprints,Lou JONES,USA,45.44,1956-06-30,"Los Angeles, CA (USA)",men,outdoor,24.0,senior
+1958,1108.0,Men's 100m,100-metres,sprints,Peter RADFORD,GBR,10.29,1958-09-13,Colombes (FRA),men,outdoor,19.0,u20
+1960,1177.0,Men's 400m,400-metres,sprints,Otis DAVIS,USA,45.14,1960-09-06,"Stadio Olimpico, Roma (ITA)",men,outdoor,28.0,senior
+1964,1177.0,Men's 400m,400-metres,sprints,Mike LARRABEE,USA,45.14,1964-09-12,"Los Angeles, CA (USA)",men,outdoor,31.0,senior
+1965,1141.0,Women's 200m,200-metres,sprints,Irena KIRSZENSTEIN,POL,22.94,1965-08-08,Warszawa (POL),women,outdoor,19.0,senior
+1966,1162.0,Men's 400m,400-metres,sprints,Tommie SMITH,USA,45.25,1966-08-20,London (GBR),men,outdoor,22.0,senior
+1967,1205.0,Men's 400m,400-metres,sprints,Tommie SMITH,USA,44.74,1967-05-20,San José (USA),men,outdoor,23.0,senior
+1968,1260.0,Men's 400m,400-metres,sprints,Lee EVANS,USA,43.86,1968-10-18,"Estadio Olímpico, Ciudad de México (MEX)",men,outdoor,21.0,senior
+1969,1205.0,Men's 400m,400-metres,sprints,Lee EVANS,USA,44.74,1969-09-12,"South Lake Tahoe, CA (USA)",men,outdoor,22.0,senior
+1970,1179.0,Men's 400m,400-metres,sprints,Charles ASATI,KEN,45.01,1970-07-23,Edinburgh (GBR),men,outdoor,24.0,senior
+1971,1242.0,Men's 200m,200-metres,sprints,Don QUARRIE,JAM,19.86,1971-08-03,Cali (COL),men,outdoor,20.0,senior
+1972,1233.0,Men's 400m,400-metres,sprints,Wayne COLLETT,USA,44.34,1972-07-09,"Eugene, OR (USA)",men,outdoor,23.0,senior
+1973,1198.0,Women's 200m,200-metres,sprints,Renate STECHER,GDR,22.38,1973-07-21,Dresden (GER),women,outdoor,23.0,senior
+1974,1216.0,Women's 200m,200-metres,sprints,Irena SZEWIŃSKA,POL,22.21,1974-06-13,Potsdam (GDR),women,outdoor,28.0,senior
+1975,1244.0,Women's 300m,300-metres,sprints,Rita WILDEN,FRG,34.84,1975-05-18,Dortmund (GER),women,outdoor,28.0,senior
+1976,1234.0,Women's 400m,400-metres,sprints,Irena SZEWIŃSKA,POL,49.29,1976-07-29,"Olympic Stadium, Montréal (CAN)",women,outdoor,30.0,senior
+1977,1226.0,Women's 100m,100-metres,sprints,Marlies OELSNER,GDR,10.88,1977-07-01,Dresden (GER),women,outdoor,19.0,senior
+1978,1248.0,Women's 400m,400-metres,sprints,Marita KOCH,GDR,48.94,1978-08-31,"Stadion Evžena Rošického, Praha (TCH)",women,outdoor,21.0,senior
+1979,1268.0,Women's 200m,200-metres,sprints,Marita KOCH,GDR,21.71,1979-06-10,Karl Marx Stadt (GDR),women,outdoor,22.0,senior
+1980,1251.0,Women's 400m,400-metres,sprints,Marita KOCH,GDR,48.88,1980-07-28,"Lenin Stadium, Moskva (URS)",women,outdoor,23.0,senior
+1981,1262.0,Women's 400m,400-metres,sprints,Jarmila KRATOCHVÍLOVÁ,TCH,48.61,1981-09-06,"Stadio Olimpico, Roma (ITA)",women,outdoor,30.0,senior
+1982,1281.0,Women's 400m,400-metres,sprints,Marita KOCH,GDR,48.16,1982-09-08,"Olympic Stadium, Athina (GRE)",women,outdoor,25.0,senior
+1983,1288.0,Women's 400m,400-metres,sprints,Jarmila KRATOCHVÍLOVÁ,TCH,47.99,1983-08-10,"Olympiastadion, Helsinki (FIN)",women,outdoor,32.0,senior
+1984,1281.0,Women's 400m,400-metres,sprints,Marita KOCH,GDR,48.16,1984-08-16,Praha (TCH),women,outdoor,27.0,senior
+1985,1304.0,Women's 400m,400-metres,sprints,Marita KOCH,GDR,47.60,1985-10-06,"Bruce Stadium, Canberra (AUS)",women,outdoor,28.0,senior
+1986,1278.0,Women's 400m,400-metres,sprints,Marita KOCH,GDR,48.22,1986-08-28,"Neckarstadion, Stuttgart (GER)",women,outdoor,29.0,senior
+1987,1265.0,Women's 200m,200-metres,sprints,Silke MÖLLER,GDR,21.74,1987-09-03,"Stadio Olimpico, Roma (ITA)",women,outdoor,23.0,senior
+1988,1314.0,Women's 100m,100-metres,sprints,Florence GRIFFITH-JOYNER,USA,10.49,1988-07-16,"Indianapolis, IN (USA)",women,outdoor,29.0,senior
+1989,1248.0,Women's 100m,100-metres,sprints,Dawn SOWELL,USA,10.78,1989-06-03,"Provo, UT (USA)",women,outdoor,23.0,senior
+1990,1280.0,Women's 200m,200-metres,sprints,Merlene OTTEY,JAM,21.66,1990-08-15,Zürich (SUI),women,outdoor,30.0,senior
+1991,1276.0,Women's 200m,200-metres,sprints,Merlene OTTEY,JAM,21.64,1991-09-13,Bruxelles (BEL),women,outdoor,31.0,senior
+1992,1286.0,Men's 400m,400-metres,sprints,Quincy WATTS,USA,43.5,1992-08-05,"Estadio Olímpico, Barcelona (ESP)",men,outdoor,22.0,senior
+1993,1288.0,Women's 200m indoor,200-metres,sprints,Merlene OTTEY,JAM,21.87,1993-02-13,Liévin (FRA),women,indoor,33.0,senior
+1994,1259.0,Men's 100m,100-metres,sprints,Leroy BURRELL,USA,9.85,1994-07-06,"Stade Olympique de la Pontaise, Lausanne (SUI)",men,outdoor,27.0,senior
+1995,1294.0,Men's 400m,400-metres,sprints,Michael JOHNSON,USA,43.39,1995-08-09,"Ullevi Stadium, Göteborg (SWE)",men,outdoor,28.0,senior
+1996,1329.0,Men's 200m,200-metres,sprints,Michael JOHNSON,USA,19.32,1996-08-01,"Olympic Stadium, Atlanta, GA (USA)",men,outdoor,29.0,senior
+1997,1268.0,Men's 400m,400-metres,sprints,Michael JOHNSON,USA,43.75,1997-04-19,"Waco, TX (USA)",men,outdoor,30.0,senior
+1998,1281.0,Women's 200m,200-metres,sprints,Marion JONES,USA,21.62,1998-09-11,"SGJ, Johannesburg (RSA)",women,outdoor,23.0,senior
+1999,1310.0,Men's 400m,400-metres,sprints,Michael JOHNSON,USA,43.18,1999-08-26,"La Cartuja, Sevilla (ESP)",men,outdoor,32.0,senior
+2000,1273.0,Men's 400m,400-metres,sprints,Michael JOHNSON,USA,43.68,2000-07-16,"Sacramento, CA (USA)",men,outdoor,33.0,senior
+2001,1274.0,Men's 60m indoor,60-metres,sprints,Maurice GREENE,USA,6.39,2001-03-03,"Atlanta, GA (USA)",men,indoor,27.0,senior
+2002,1247.0,Men's 200m,200-metres,sprints,Konstantinos KENTERIS,GRE,19.85,2002-08-09,"Olympiastadion, München (GER)",men,outdoor,29.0,senior
+2003,1251.0,Women's 400m,400-metres,sprints,Ana Gabriela GUEVARA,MEX,48.89,2003-08-27,"Stade de France, Paris-St-Denis (FRA)",women,outdoor,26.0,senior
+2004,1259.0,Men's 100m,100-metres,sprints,Justin GATLIN,USA,9.85,2004-08-22,"Olympic Stadium, Athina (GRE)",men,outdoor,22.0,senior
+2005,1287.0,Men's 100m,100-metres,sprints,Asafa POWELL,JAM,9.77,2005-06-14,"Olympic Stadium, Athina (GRE)",men,outdoor,23.0,senior
+2006,1287.0,Men's 100m,100-metres,sprints,Asafa POWELL,JAM,9.77,2006-08-18,Zürich (SUI),men,outdoor,24.0,senior
+2007,1298.0,Men's 100m,100-metres,sprints,Asafa POWELL,JAM,9.74,2007-09-09,"Stadio Guidobaldi, Rieti (ITA)",men,outdoor,25.0,senior
+2008,1338.0,Men's 200m,200-metres,sprints,Usain BOLT,JAM,19.3,2008-08-20,"National Stadium, Beijing (CHN)",men,outdoor,22.0,senior
+2009,1356.0,Men's 100m,100-metres,sprints,Usain BOLT,JAM,9.58,2009-08-16,"Olympiastadion, Berlin (GER)",men,outdoor,23.0,senior
+2010,1294.0,Men's 200m,200-metres,sprints,Usain BOLT,JAM,19.56,2010-05-01,Kingston (JAM),men,outdoor,24.0,senior
+2011,1339.0,Men's 200m,200-metres,sprints,Yohan BLAKE,JAM,19.26,2011-09-16,"Boudewijnstadion, Bruxelles (BEL)",men,outdoor,22.0,senior
+2012,1337.0,Men's 100m,100-metres,sprints,Usain BOLT,JAM,9.63,2012-08-05,"Olympic Stadium, London (GBR)",men,outdoor,26.0,senior
+2013,1288.0,Men's 100m,100-metres,sprints,Usain BOLT,JAM,9.77,2013-08-11,"Luzhniki Stadion, Moskva (RUS)",men,outdoor,27.0,senior
+2014,1287.0,Men's 100m,100-metres,sprints,Justin GATLIN,USA,9.77,2014-09-05,"Boudewijnstadion, Bruxelles (BEL)",men,outdoor,32.0,senior
+2015,1298.0,Men's 100m,100-metres,sprints,Justin GATLIN,USA,9.74,2015-05-15,"Suhaim bin Hamad Stadium, Doha (QAT)",men,outdoor,33.0,senior
+2016,1321.0,Men's 400m,400-metres,sprints,Wayde VAN NIEKERK,RSA,43.03,2016-08-14,"Estádio Olímpico, Rio de Janeiro (BRA)",men,outdoor,24.0,senior
+2017,1278.0,Men's 400m,400-metres,sprints,Wayde VAN NIEKERK,RSA,43.62,2017-07-06,"Stade Olympique de la Pontaise, Lausanne (SUI)",men,outdoor,25.0,senior
+2018,1304.0,Men's 60m indoor,60-metres,sprints,Christian COLEMAN,USA,6.34,2018-02-18,"Albuquerque, NM (USA)",men,indoor,22.0,senior
+2019,1300.0,Men's 200m,200-metres,sprints,Noah LYLES,USA,19.5,2019-07-05,"Stade Olympique de la Pontaise, Lausanne (SUI)",men,outdoor,22.0,senior
+2020,1258.0,Men's 200m,200-metres,sprints,Noah LYLES,USA,19.76,2020-08-14,"Stade Louis II, Monaco (MON)",men,outdoor,23.0,senior
+2021,1302.0,Women's 100m,100-metres,sprints,Elaine THOMPSON-HERAH,JAM,10.54,2021-08-21,"Hayward Field, Eugene, OR (USA)",women,outdoor,29.0,senior
+2022,1331.0,Men's 200m,200-metres,sprints,Noah LYLES,USA,19.31,2022-07-21,"Hayward Field, Eugene, OR (USA)",men,outdoor,25.0,senior
+2023,1305.0,Men's 200m,200-metres,sprints,Noah LYLES,USA,19.47,2023-07-23,"Olympic Stadium, London (GBR)",men,outdoor,26.0,senior
