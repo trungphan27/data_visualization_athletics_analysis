@@ -1,5 +1,10 @@
 # Technique Application Report: Time Series Analysis Dashboard
 
+## Overall Dashboard
+![Performance by gender and event type](F:\athletics_analysis\dashboard images\tsa1.png)
+![Top 10 countries by performance through half-decades](F:\athletics_analysis\dashboard images\tsa2.png)
+
+
 ## Dashboard Context
 
 This dashboard visualizes a reduced version of the World Athletics all-time rankings dataset. The analysis focuses on the three event types with the largest number of records: `middle-long`, `sprints`, and `jumps`. The main purpose is to support time-series analysis of athletic performance over history, compare gender-level performance trends, compare event-type trends, and identify historically strong countries.
