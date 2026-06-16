@@ -9,6 +9,15 @@
 !DataViz.pbix
 !data_visualization_technique_application_report.md
 
+# Dashboard screenshots used in the Markdown report.
+!dashboard_images/
+dashboard_images/*
+!dashboard_images/*.png
+!dashboard_images/*.jpg
+!dashboard_images/*.jpeg
+!dashboard_images/*.gif
+!dashboard_images/*.webp
+
 # Dashboard-ready CSVs in the project root.
 !fixed_gender_gap_dumbbell_chart_ready.csv
 !filled_bump_chart_top10_strength_ranked_by_half_decade_score.csv
